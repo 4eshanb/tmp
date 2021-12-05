@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.0.5)
+  - Highcharts (9.2.2)
+  - SwiftSpinner (2.2.0)
+  - SwiftyJSON (4.3.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - Highcharts (~> 9.2.2)
+  - SwiftSpinner
+  - SwiftyJSON (~> 4.0)
+  - Toast-Swift (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Highcharts
+    - SwiftSpinner
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  Highcharts: fb33ff54bf42d2910da1eadcb5154c75c6bd71f2
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: a59971e8191703b253e5e3565953f65a1a0a757c
+
+COCOAPODS: 1.11.2

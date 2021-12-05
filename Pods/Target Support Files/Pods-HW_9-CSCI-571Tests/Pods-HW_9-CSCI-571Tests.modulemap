@@ -1,0 +1,6 @@
+framework module Pods_HW_9_CSCI_571Tests {
+  umbrella header "Pods-HW_9-CSCI-571Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
